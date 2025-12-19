@@ -55,4 +55,4 @@
 
 ### **3. Вывод**
 Лабораторная работа выполнена в полном объёме. Были освоены ключевые аспекты UML-моделирования:  
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/images/диаграммы.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/диаграммы.png)
